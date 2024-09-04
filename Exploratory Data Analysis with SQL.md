@@ -72,7 +72,7 @@
 ```
 #### Outputted table and chart:
 
-|Table 1|Table 2|
+|Table|Chart|
 |--|--|
 |<table> <tr><th>rank</th><th>month</th><th>avg_sales</th><tr><td>1</td><td>11</td><td>$91,666</td></tr><tr><td>2</td><td>12</td><td>$74,884</td></tr><tr><td>3</td><td>9</td><td>$68,642</td></tr><tr><td>4</td><td>7</td><td>$48,513</td></tr><tr><td>5</td><td>10</td><td>$45,239</td></tr><tr><td>6</td><td>4</td><td>$45,227</td></tr><tr><td>7</td><td>8</td><td>$41,661</td></tr><tr><td>8</td><td>3</td><td>$40,798</td></tr><tr><td>9</td><td>5</td><td>$39,626</td></tr><tr><td>10</td><td>6</td><td>$39,316</td></tr><tr><td>11</td><td>1</td><td>$21,040</td></tr><tr><td>12</td><td>2</td><td>$17,688</td></tr> </table>| <table> <tr>![avg monthly sales chart](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/average%20sales%20by%20month.png?raw=true)</tr></table>|
 
