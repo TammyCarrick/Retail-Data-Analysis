@@ -2,13 +2,13 @@
 Analyzing retail trends over a four year period to assess long-term strategies and perfomance. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/3DRWRJSXT?:display_count=n&:origin=viz_share_link).
 
 **Dashboard depicting overview of sales:**
-![Sales Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Sales%20Dashboard.png)
+![Sales Dashboard v3](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Sales%20Dashboard.png)
 
 **Dashboard depicting key customer metrics:**
-![Customer Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Customer%20Dashboard.png)
+![Customer Dashboard v3](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Customer%20Dashboard.png)
 
 **Dashboard depicting performance by region metrics:**
-![Regional Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Regional%20Dashboard.png)
+![Regional Dashboard v3](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Regional%20Dashboard.png)
 
 ## North Star Metrics and Dimensions
 
