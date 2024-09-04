@@ -5,7 +5,7 @@ Analyzing retail trends over a four year period to assess long-term strategies a
 ![Sales Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/sales%20dashboard%20v3.png?raw=true)
 
 **Dashboard depicting key customer metrics:**
-![Customer Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/customer%20dashboard%20v3.png?raw=true)
+![Customer Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Customer%20Dashboard.png?raw=true)
 
 **Dashboard depicting performance by region metrics:**
 ![Regional Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/Regional%20Dashboard.png)
