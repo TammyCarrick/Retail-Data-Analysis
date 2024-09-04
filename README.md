@@ -15,7 +15,7 @@ Analyzing retail trends over a four year period to assess long-term strategies a
 - **Sales:** Total sales from all products, regions, and customers
 - **Year:** Current year performance compared to the previous year
 - **Region:** United States - Central, East, South, and West regions
-- **Subcateogry of Products:** click here for list of subcategories (17 subcategories in total)
+- **Subcateogry of Products:** click [here](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/list%20of%20subcategories.csv) for list of subcategories (17 subcategories in total)
 
 ## Summary of Insights
 
