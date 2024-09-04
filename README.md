@@ -1,4 +1,4 @@
-# Retail Performance Long-Term Trend Analysis (2019 - 2022)
+# Retail Store Long-Term Trend Analysis (2019 - 2022)
 Analyzing retail trends over a four year period to assess long-term strategies and perfomance. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/3DRWRJSXT?:display_count=n&:origin=viz_share_link).
 
 **Dashboard depicting overview of sales:**
