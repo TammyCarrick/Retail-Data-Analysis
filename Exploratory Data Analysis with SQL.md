@@ -197,7 +197,7 @@
 
 ### Yearly sales by subcategory
 
-#### SQL Query
+#### SQL query
 ```
   WITH sales_unformatted AS (
   	SELECT	
