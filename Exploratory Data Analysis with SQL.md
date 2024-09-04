@@ -80,7 +80,9 @@
 - the months at the end of the year tend to have the highest average sales
 - the month with the highest average sales has more than five times the month with the lowest average sales
     
-- **Max and min sales and the months that they occured in**
+### Max and min sales and the months that they occured in
+
+#### SQL query
 ```
   -- For each year, rank each month according to total sales
   WITH monthly_rank AS (
@@ -126,7 +128,13 @@
   JOIN max_month_table
       ON min_month_table.year_ = max_month_table.year_;
 ```
-#### Outputted table and chart:
+#### Outputted table:
+|year_|min_month|min_sales|max_month|max_sales|
+|-----|---------|---------|---------|---------|
+|2019 |1        |$12,650  |11       |$69,468  |
+|2020 |2        |$11,309  |11       |$115,274 |
+|2021 |1        |$18,591  |12       |$80,273  |
+|2022 |2        |$21,286  |9        |$106,342 |
 
 #### Remarks:
 - The months with the lowest sales per year is switches between January and February
@@ -174,8 +182,15 @@
       CONCAT('$', FORMAT(sales_2022, 'C')) AS sales_2022
   FROM percent_diff_table
 ```
-
 #### Outputted table and chart:
+|Region|sales_2019|perc_diff_2020|sales_2020|perc_diff_2021|sales_2021|perc_diff_2022|sales_2022|
+|------|----------|--------------|----------|--------------|----------|--------------|----------|
+|Central|$80,843   |25.9%         |$101,800  |47.1%         |$149,699  |12.8%         |$168,897  |
+|East  |$138,721  |15.7%         |$160,492  |11.1%         |$178,285  |12.9%         |$201,283  |
+|South |$71,753   |44.7%         |$103,812  |-24.7%        |$78,145   |76.6%         |$138,012  |
+|West  |$131,121  |8.1%          |$141,759  |30.6%         |$185,094  |44.5%         |$267,484  |
+
+<img src="https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/regional%20sales.png?raw=true" width="700" height="400">
 
 #### Remarks
 - Steady growth in the East, West, and Central regions. Volatile growth in the Southern region.
@@ -205,6 +220,29 @@
   ORDER BY (sales_2019 + sales_2020 + sales_2021 + sales_2022)/4 DESC
 ```
 #### Outputted table and chart:
+|SubCategory|sales_2019|sales_2020|sales_2021|sales_2022|avg_yearly_sales|
+|-----------|----------|----------|----------|----------|----------------|
+|Phones     |$59,681   |$73,365   |$81,154   |$115,807  |$82,502         |
+|Chairs     |$63,055   |$63,668   |$86,111   |$115,615  |$82,112         |
+|Storage    |$41,267   |$47,518   |$57,084   |$77,975   |$55,961         |
+|Tables     |$42,592   |$42,181   |$52,430   |$69,762   |$51,741         |
+|Binders    |$19,343   |$39,325   |$60,211   |$84,534   |$50,853         |
+|Machines   |$40,456   |$50,031   |$47,801   |$50,951   |$47,310         |
+|Accessories|$36,778   |$36,917   |$40,950   |$52,735   |$41,845         |
+|Copiers    |$21,630   |$47,210   |$30,349   |$50,339   |$37,382         |
+|Bookcases  |$19,452   |$21,464   |$31,146   |$42,818   |$28,720         |
+|Appliances |$20,724   |$26,103   |$28,808   |$31,898   |$26,883         |
+|Furnishings|$20,423   |$19,352   |$19,823   |$32,107   |$22,926         |
+|Paper      |$17,433   |$17,146   |$17,544   |$26,356   |$19,620         |
+|Supplies   |$7,209    |$11,114   |$23,156   |$5,195    |$11,668         |
+|Art        |$5,694    |$5,333    |$6,925    |$9,167    |$6,780          |
+|Envelopes  |$3,438    |$3,693    |$4,740    |$4,605    |$4,119          |
+|Labels     |$2,794    |$2,649    |$2,259    |$4,784    |$3,122          |
+|Fasteners  |$469      |$794      |$733      |$1,028    |$756            |
+
+<img src="https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/yearly%20sales%20by%20subcategory.png?raw=true" width = "700" height="400">
+
+
 
 #### Remarks:
 - Every subcategory except for supplies category has experienced growth over four years
