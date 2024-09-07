@@ -51,7 +51,7 @@
 |2022 |$775,676|31.2%                      |
 
 #### Remarks:
-- consistent growth in sales over the past four years
+- There has been a consistent growth in sales over the past four years.
 
 ### Average sales per month over four years:
   
@@ -77,8 +77,8 @@
 |<table> <tr><th>rank</th><th>month</th><th>avg_sales</th><tr><td>1</td><td>11</td><td>$91,666</td></tr><tr><td>2</td><td>12</td><td>$74,884</td></tr><tr><td>3</td><td>9</td><td>$68,642</td></tr><tr><td>4</td><td>7</td><td>$48,513</td></tr><tr><td>5</td><td>10</td><td>$45,239</td></tr><tr><td>6</td><td>4</td><td>$45,227</td></tr><tr><td>7</td><td>8</td><td>$41,661</td></tr><tr><td>8</td><td>3</td><td>$40,798</td></tr><tr><td>9</td><td>5</td><td>$39,626</td></tr><tr><td>10</td><td>6</td><td>$39,316</td></tr><tr><td>11</td><td>1</td><td>$21,040</td></tr><tr><td>12</td><td>2</td><td>$17,688</td></tr> </table>| <table> <tr>![avg monthly sales chart](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/average%20sales%20by%20month.png?raw=true)</tr></table>|
 
 #### Remarks:
-- the months at the end of the year tend to have the highest average sales
-- the month with the highest average sales has more than five times the month with the lowest average sales
+- The months at the end of the year tend to have the highest average sales.
+- The month with the highest average sales has more than five times the month with the lowest average sales.
     
 ### Max and min sales and the months that they occured in
 
@@ -137,8 +137,8 @@
 |2022 |2        |$21,286  |9        |$106,342 |
 
 #### Remarks:
-- The months with the lowest sales per year is switches between January and February
-- The months with the highest sales always occur in the last third of the year
+- The months with the lowest sales per year switch between January and February.
+- The months with the highest sales always occur in the last third of the year.
 
 ## Investigating regional trends 
 
@@ -193,7 +193,7 @@
 <img src="https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/regional%20sales.png?raw=true" width="700" height="400">
 
 #### Remarks
-- Steady growth in the East, West, and Central regions. Volatile growth in the Southern region.
+- There has been steady growth in the East, West, and Central regions. Volatile growth in the Southern region.
 
 ### Yearly sales by subcategory
 
@@ -242,11 +242,9 @@
 
 <img src="https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/yearly%20sales%20by%20subcategory.png?raw=true" width = "700" height="400">
 
-
-
 #### Remarks:
-- Every subcategory except for supplies category has experienced growth over four years
-- Sales growth of subcategories with lower sales tends to be more volatile
+- Every subcategory except for supplies category has experienced sales growth over four years.
+- The growth of lower selling subcategories tends to be more volatile.
 
 
 
