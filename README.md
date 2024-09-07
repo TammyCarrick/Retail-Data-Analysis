@@ -36,4 +36,4 @@ Analyzing retail trends over a four year period to assess long-term strategies a
 ## Recommendations & Next Steps
 - Investigate why sales exhibit a steep dip in January and February, flatline in the middle of the year, and then see a surge in September, November, and December. Are there promotions or discounts we can offer to combat this dip?
 - The Eastern region has increased its yearly number of customers similar to other regions, yet it has experienced the least growth in average sales per customer - expand this analysis to understand why. Investigate whether there is an issue with a new competitor in this region.
-- Investigate why the supplies subcategory is not experiencing sales growth like all the other subcategories. Is there an issue with the product, competition, pricing, etc.?
+- Investigate why the supplies subcategory is not experiencing sales growth like all the other subcategories. Is there an issue with the products, competition, pricing, etc.?
