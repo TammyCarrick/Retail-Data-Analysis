@@ -8,7 +8,7 @@ Analyzing retail trends over a four year period to assess long-term strategies a
 **Dashboard depicting key customer metrics:**
 ![Customer Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/Customer%20Dashboard.png?raw=true)
 
-**Dashboard depicting performance by region metrics:**
+**Dashboard depicting performance by region:**
 ![Regional Dashboard](https://github.com/TammyCarrick/Retail-Data-Analysis/blob/main/images/Regional%20Dashboard.png?raw=true)
 
 ## North Star Metrics and Dimensions
