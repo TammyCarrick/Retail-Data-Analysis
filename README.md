@@ -23,7 +23,7 @@ Analyzing retail trends over a four-year period to assess long-term strategies a
 ### Yearly Sales:
 - Since 2019, yearly sales have grown by an average of 22% per year.
 - Over the past four years, sales have peaked in November and December, averaging $91K and $74K, respectively. In contrast, January and February have had the lowest sales, averaging at $21K and $18K, respectively.
-- Sales also tend to experience a surge in September, drop in October, and then peak in the last two months of the year.
+- There's seasonality to sales trends. Sales tend to experience a surge in September, drop in October, and then peak in the last two months of the year.
 
 ### Regional Sales: 
 - Since 2019, sales in the Central and West regions have doubled, and sales in the South have nearly doubled. However, the Eastern region has experienced the least growth, with sales increasing by only 50%.
